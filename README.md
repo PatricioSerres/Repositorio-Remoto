@@ -1,8 +1,2 @@
-Autores: 
-=============
-```
-Luca Giuseppe Gerace
-Bautista Grianta
-Lautaro Mendez Portela
-Patricio Benjamin Serres
-```
+Nombre: Patricio Benjamin Serres
+Numero de alumno: 21537/9
