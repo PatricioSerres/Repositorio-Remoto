@@ -1,5 +1,8 @@
-Nombre: Patricio Benjamin Serres
+Autores: 
 =============
 ```
-Numero de alumno: 21537/9
+Luca Giuseppe Gerace
+Bautista Grianta
+Lautaro Mendez Portela
+Patricio Benjamin Serres
 ```
